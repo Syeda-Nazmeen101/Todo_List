@@ -14,4 +14,6 @@ Just open `index.html` in a browser.
 ## Author
 Syeda Nazmeen
 
-![Todo List Screenshot](img.png)
+### 🟢 Dashboard View
+
+<img src="images/dashboard.jpg" alt="Dashboard" width="800">
