@@ -16,4 +16,4 @@ Syeda Nazmeen
 
 ### 🟢 Dashboard View
 
-<img src="images/dashboard.jpg" alt="Dashboard" width="800">
+<img src="imp.png" alt="Screenshot" width="800">
